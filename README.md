@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, you will create an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. You will create routes to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
+In this project, we will create an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. we will create routes to manage our 'minions', our brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
 
 You can view a video demonstration of the final app here:
 
